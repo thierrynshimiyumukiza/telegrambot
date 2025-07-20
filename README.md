@@ -1,6 +1,5 @@
 # **Telegram Vulnerability Bot** 🤖
 
-![Build Status](https://github.com/thierrynshimiyumukiza/telegrambot/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/github/license/thierrynshimiyumukiza/telegrambot)
 ![Last Commit](https://img.shields.io/github/last-commit/thierrynshimiyumukiza/telegrambot)
                       
@@ -122,7 +121,6 @@ Interact with the bot using the following **Telegram commands**:
 
 ![Thierry's GitHub stats](https://github-readme-stats.vercel.app/api?username=thierrynshimiyumukiza&show_icons=true&theme=radical)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=thierrynshimiyumukiza&theme=react-dark)
 
 ---
 
@@ -132,9 +130,7 @@ Interact with the bot using the following **Telegram commands**:
 - If you encounter missing tokenizer errors, run:
 
 ```bash
-python -c "import nltk; nltk.download('punkt')"
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-  
+
   
   
   
