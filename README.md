@@ -3,10 +3,7 @@
 ![Build Status](https://github.com/thierrynshimiyumukiza/telegrambot/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/github/license/thierrynshimiyumukiza/telegrambot)
 ![Last Commit](https://img.shields.io/github/last-commit/thierrynshimiyumukiza/telegrambot)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63346676/166628304-65c5dce3-725f-49c8-9205-82d76b23aabb.jpg" alt="Telegram Bot Preview" width="600" />
-</p>
-
+                      
 ![Telegram Bot Demo](https://github.com/user-attachments/assets/b7890dca-f3b4-4366-8d78-386e69afa8a6)
 
 <details>
